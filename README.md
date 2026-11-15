@@ -8,7 +8,7 @@
 - **Candidate:** Nalina G (USN: `25CSE09`)
 - **Guide / Supervisor:** Dr. Nirmala G, Associate Professor, Department of CSE, SSIT Tumakuru
 - **Academic Year:** 2026 – 2027
-- **Target Repository:** `https://github.com/sajeevnetworksolutions/intelligent-campus-security-system`
+- **Target Repository:** `https://github.com/sajeevnetworksolutions-lgtm/intelligent-campus-security-system` (Organization/Owner: `sajeevnetworksolutions-lgtm`)
 
 ---
 
@@ -335,7 +335,7 @@ The machine learning models were independently evaluated using 3,750 held-out te
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/sajeevnetworksolutions/intelligent-campus-security-system.git
+git clone https://github.com/sajeevnetworksolutions-lgtm/intelligent-campus-security-system.git
 cd intelligent-campus-security-system/backend
 
 # 2. Create virtual environment
@@ -541,8 +541,8 @@ This script:
 - **Academic Year:** 2026 – 2027
 
 ### Organization
-- **GitHub Organization:** [sajeevnetworksolutions](https://github.com/sajeevnetworksolutions)
-- **Repository:** `intelligent-campus-security-system`
+- **GitHub Owner:** [sajeevnetworksolutions-lgtm](https://github.com/sajeevnetworksolutions-lgtm)
+- **Repository:** [intelligent-campus-security-system](https://github.com/sajeevnetworksolutions-lgtm/intelligent-campus-security-system)
 
 ### License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for complete details.
