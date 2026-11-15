@@ -1,14 +1,5 @@
 # AN INTELLIGENT CAMPUS SECURITY SYSTEM FOR CYBERSECURITY APPLICATIONS
 
-### M.Tech Computer Science and Engineering Research Project
-**Department of Computer Science and Engineering**  
-**Sri Siddhartha Institute of Technology (SSIT), Tumakuru — 572105, Karnataka, India**  
-*(A Constituent College of Sri Siddhartha Academy of Higher Education - SSAHE, Accredited 'A+' Grade by NAAC, Approved by AICTE, NBA Accredited)*  
-
-- **Candidate:** Nalina G (USN: `25CSE09`)
-- **Guide / Supervisor:** Dr. Nirmala G, Associate Professor, Department of CSE, SSIT Tumakuru
-- **Academic Year:** 2026 – 2027
-- **Target Repository:** `https://github.com/sajeevnetworksolutions-lgtm/intelligent-campus-security-system` (Organization/Owner: `sajeevnetworksolutions-lgtm`)
 
 ---
 
