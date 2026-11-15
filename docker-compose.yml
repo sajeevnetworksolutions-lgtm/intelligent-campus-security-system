@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.backend
+    container_name: campus_security_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./campus_security.db
+      - SECRET_KEY=campus-cybersecurity-secret-key-mtech-2026-ssit-secure-token
+    volumes:
+      - ./datasets:/app/datasets
+      - ./results:/app/results
+      - ./ml_models:/app/ml_models
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ../docker/Dockerfile.frontend
+    container_name: campus_security_frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
